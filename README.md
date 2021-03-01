@@ -5,3 +5,7 @@
 __index.js__
 
 あと・・・　__index.js__ の中に、リーダボードIDがあるから、変更する
+
+__参考__
+
+>https://github.com/sweet-games/cordova-plugin-google-play-game-services
