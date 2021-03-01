@@ -1,0 +1,33 @@
+{
+  "name": "com.kaname.main",
+  "displayName": "GPGS",
+  "version": "1.0.0",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Apache Cordova Team",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "cordova-android": "^9.0.0",
+    "cordova-plugin-google-play-game-services": "0.0.3",
+    "cordova-plugin-whitelist": "^1.3.4"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-google-play-game-services": {
+        "APP_ID": "90415148****",
+        "ANDROID_PLAY_SERVICES_GAMES_VERSION": "+",
+        "ANDROID_PLAY_SERVICES_AUTH_VERSION": "+"
+      }
+    },
+    "platforms": [
+      "android"
+    ]
+  }
+}
