@@ -9,3 +9,5 @@ __index.js__
 __参考__
 
 >https://github.com/sweet-games/cordova-plugin-google-play-game-services
+
+>https://gist.github.com/masahiroid/2dedead46f8ed7da5cf5f459177c5eb2
